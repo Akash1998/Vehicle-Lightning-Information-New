@@ -336,48 +336,34 @@
 
         // Load external JSON database
         async function loadDatabase() {
-            console.log('🔄 Attempting to load external database...');
             try {
                 const response = await fetch('car_bulb_database_500plus.json');
-                if (response.ok) {
-                    const jsonData = await response.json();
-                    if (jsonData && jsonData.vehicles && jsonData.vehicles.length > 0) {
-                        console.log(`✅ Successfully loaded ${jsonData.vehicles.length} vehicles from JSON file`);
-                        return jsonData.vehicles;
-                    }
+                if (!response.ok) {
+                    throw new Error('JSON file not found or HTTP error: ' + response.status);
                 }
-                throw new Error('Invalid JSON structure');
+                const jsonData = await response.json();
+                console.log('✅ Loaded vehicles from JSON:', jsonData.vehicles?.length);
+                return jsonData.vehicles;
             } catch (error) {
-                console.warn('⚠️ External JSON not loaded, using embedded fallback data');
-                console.warn('Error details:', error.message);
+                console.error('❌ Failed to load external JSON, using embedded data:', error);
                 return carDatabase.vehicles;
             }
         }
 
         // Initialize
         async function init() {
-            // Load data from external JSON or fallback to embedded
             carData = await loadDatabase();
             filteredData = [...carData];
             
-            // Extract unique brands
             carData.forEach(vehicle => brands.add(vehicle.make));
-            
-            // Populate filters
             populateBrandFilter();
-            
-            // Render initial cards
             renderCards(filteredData);
-            
-            // Update statistics
             updateStats();
             
-            // Setup event listeners
             document.getElementById('searchInput').addEventListener('input', debounce(filterData, 300));
             document.getElementById('brandFilter').addEventListener('change', filterData);
         }
 
-        // Populate brand filter
         function populateBrandFilter() {
             const select = document.getElementById('brandFilter');
             const sortedBrands = Array.from(brands).sort();
@@ -390,9 +376,8 @@
             });
         }
 
-        // Get bulb class for styling
         function getBulbClass(bulbType) {
-            const type = bulbType.toLowerCase();
+            const type = String(bulbType || '').toLowerCase();
             if (type.includes('h4')) return 'bulb-h4';
             if (type.includes('h7')) return 'bulb-h7';
             if (type.includes('h1')) return 'bulb-h1';
@@ -402,12 +387,11 @@
             return 'bulb-badge';
         }
 
-        // Render vehicle cards
         function renderCards(data) {
             const grid = document.getElementById('resultsGrid');
             const noResults = document.getElementById('noResults');
             
-            if (data.length === 0) {
+            if (!data || data.length === 0) {
                 grid.innerHTML = '';
                 noResults.classList.remove('hidden');
                 return;
@@ -424,13 +408,13 @@
                         </div>
                         <div class="text-right">
                             <div class="text-sm text-gray-400">${vehicle.year}</div>
-                            <div class="text-xs text-gray-500">${vehicle.generation}</div>
+                            <div class="text-xs text-gray-500">${vehicle.generation || ''}</div>
                         </div>
                     </div>
                     
                     <div class="mb-4 pb-4 border-b border-dark-700">
                         <span class="inline-block px-3 py-1 text-xs rounded-full bg-dark-800 text-gray-300 border border-dark-600">
-                            ${vehicle.variant}
+                            ${vehicle.variant || 'All'}
                         </span>
                     </div>
                     
@@ -439,21 +423,21 @@
                             <span class="text-sm text-gray-400">
                                 <i class="fas fa-lightbulb mr-2"></i>Headlight Low
                             </span>
-                            <span class="bulb-badge ${getBulbClass(vehicle.headlight_low)}">${vehicle.headlight_low}</span>
+                            <span class="bulb-badge ${getBulbClass(vehicle.headlight_low)}">${vehicle.headlight_low || '-'}</span>
                         </div>
                         
                         <div class="flex items-center justify-between">
                             <span class="text-sm text-gray-400">
                                 <i class="fas fa-lightbulb mr-2"></i>Headlight High
                             </span>
-                            <span class="bulb-badge ${getBulbClass(vehicle.headlight_high)}">${vehicle.headlight_high}</span>
+                            <span class="bulb-badge ${getBulbClass(vehicle.headlight_high)}">${vehicle.headlight_high || '-'}</span>
                         </div>
                         
                         <div class="flex items-center justify-between">
                             <span class="text-sm text-gray-400">
                                 <i class="fas fa-cloud mr-2"></i>Fog Light
                             </span>
-                            <span class="bulb-badge ${getBulbClass(vehicle.fog_light)}">${vehicle.fog_light}</span>
+                            <span class="bulb-badge ${getBulbClass(vehicle.fog_light)}">${vehicle.fog_light || '-'}</span>
                         </div>
                     </div>
                     
@@ -469,17 +453,16 @@
             grid.innerHTML = html;
         }
 
-        // Filter data
         function filterData() {
             const searchTerm = document.getElementById('searchInput').value.toLowerCase();
             const selectedBrand = document.getElementById('brandFilter').value;
             
             filteredData = carData.filter(vehicle => {
                 const matchesSearch = !searchTerm || 
-                    vehicle.model.toLowerCase().includes(searchTerm) ||
-                    vehicle.year.toLowerCase().includes(searchTerm) ||
-                    vehicle.variant.toLowerCase().includes(searchTerm) ||
-                    vehicle.make.toLowerCase().includes(searchTerm);
+                    (vehicle.model && vehicle.model.toLowerCase().includes(searchTerm)) ||
+                    (vehicle.year && vehicle.year.toLowerCase().includes(searchTerm)) ||
+                    (vehicle.variant && vehicle.variant.toLowerCase().includes(searchTerm)) ||
+                    (vehicle.make && vehicle.make.toLowerCase().includes(searchTerm));
                 
                 const matchesBrand = !selectedBrand || vehicle.make === selectedBrand;
                 
@@ -490,7 +473,6 @@
             updateStats();
         }
 
-        // Reset filters
         function resetFilters() {
             document.getElementById('searchInput').value = '';
             document.getElementById('brandFilter').value = '';
@@ -499,14 +481,12 @@
             updateStats();
         }
 
-        // Update statistics
         function updateStats() {
             document.getElementById('totalModelsDisplay').textContent = filteredData.length;
             const uniqueBrands = new Set(filteredData.map(v => v.make));
             document.getElementById('totalBrandsDisplay').textContent = uniqueBrands.size;
         }
 
-        // Debounce utility
         function debounce(func, wait) {
             let timeout;
             return function executedFunction(...args) {
@@ -519,7 +499,6 @@
             };
         }
 
-        // Initialize on page load
         document.addEventListener('DOMContentLoaded', () => {
             init().catch(err => console.error('Initialization failed:', err));
         });
