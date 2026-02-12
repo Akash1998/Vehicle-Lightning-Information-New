@@ -1,0 +1,5033 @@
+{
+  "metadata": {
+    "version": "2026.3.0",
+    "region": "India (IND)",
+    "last_updated": "2026-02-12",
+    "total_entries": 502,
+    "total_manufacturers": 29,
+    "sources": "Official manuals, automotive forums, aftermarket databases, manufacturer specifications",
+    "note": "Specifications for headlight (low/high beam) and fog lights only. Other bulbs removed as per requirement."
+  },
+  "vehicles": [
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto",
+      "year": "2000-2005",
+      "variant": "Base",
+      "generation": "4th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto",
+      "year": "2005-2010",
+      "variant": "LX/LXi",
+      "generation": "5th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto",
+      "year": "2010-2014",
+      "variant": "Base/LX",
+      "generation": "6th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto",
+      "year": "2014-2019",
+      "variant": "K10",
+      "generation": "7th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto",
+      "year": "2019-2022",
+      "variant": "VXi/VXi+",
+      "generation": "7th Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto",
+      "year": "2022-2026",
+      "variant": "K10 New",
+      "generation": "8th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H16"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto 800",
+      "year": "2012-2019",
+      "variant": "Base/LX",
+      "generation": "Refresh",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Alto 800",
+      "year": "2019-2024",
+      "variant": "LX/VX",
+      "generation": "Facelift",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": "2005-2010",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": "2011-2014",
+      "variant": "LDi/VDi",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": "2014-2017",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": "2018-2020",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "3rd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": "2021-2023",
+      "variant": "VXi/ZXi/ZXi+",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift",
+      "year": "2024-2026",
+      "variant": "VXi/ZXi/ZXi+",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Swift Dzire",
+      "year": "2008-2012",
+      "variant": "LDi/VDi/ZDi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "year": "1999-2003",
+      "variant": "LX/LXi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "year": "2003-2010",
+      "variant": "LX/LXi/VXi",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "year": "2010-2013",
+      "variant": "LXi/VXi",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "year": "2013-2019",
+      "variant": "LXi/VXi",
+      "generation": "2nd Gen FL2",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "year": "2019-2022",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "3rd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "WagonR",
+      "year": "2022-2026",
+      "variant": "VXi/ZXi/ZXi+",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Baleno",
+      "year": "2015-2019",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Baleno",
+      "year": "2019-2022",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Baleno",
+      "year": "2022-2026",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ertiga",
+      "year": "2012-2015",
+      "variant": "LDi/VDi/ZDi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ertiga",
+      "year": "2015-2018",
+      "variant": "VDi/ZDi/ZDi+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ertiga",
+      "year": "2018-2022",
+      "variant": "VXi/ZXi/ZXi+",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ertiga",
+      "year": "2022-2026",
+      "variant": "VXi/ZXi/ZXi+",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Brezza",
+      "year": "2016-2020",
+      "variant": "LDi/VDi/ZDi/ZDi+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Brezza",
+      "year": "2020-2022",
+      "variant": "LXi/VXi/ZXi/ZXi+",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Brezza",
+      "year": "2022-2026",
+      "variant": "LXi/VXi/ZXi/ZXi+",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Celerio",
+      "year": "2014-2017",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Celerio",
+      "year": "2017-2021",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Celerio",
+      "year": "2021-2026",
+      "variant": "LXi/VXi/ZXi",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "S-Presso",
+      "year": "2019-2021",
+      "variant": "Std/LXi/VXi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "S-Presso",
+      "year": "2021-2026",
+      "variant": "Std/LXi/VXi/VXi+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ignis",
+      "year": "2017-2020",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ignis",
+      "year": "2020-2024",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ciaz",
+      "year": "2014-2017",
+      "variant": "VDi/VDi+/ZDi/ZDi+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ciaz",
+      "year": "2017-2018",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Ciaz",
+      "year": "2018-2022",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "XL6",
+      "year": "2019-2022",
+      "variant": "Zeta/Alpha",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "XL6",
+      "year": "2022-2026",
+      "variant": "Zeta/Alpha",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Eeco",
+      "year": "2010-2018",
+      "variant": "5-STR/7-STR",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Eeco",
+      "year": "2018-2026",
+      "variant": "5-STR/7-STR",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Omni",
+      "year": "1985-2019",
+      "variant": "E/5-STR/8-STR",
+      "generation": "All Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Gypsy",
+      "year": "1985-2018",
+      "variant": "King HT/ST",
+      "generation": "All Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Grand Vitara",
+      "year": "2022-2026",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Fronx",
+      "year": "2023-2026",
+      "variant": "Sigma/Delta/Zeta/Alpha",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Jimny",
+      "year": "2023-2026",
+      "variant": "Zeta/Alpha",
+      "generation": "4th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Maruti Suzuki",
+      "model": "Invicto",
+      "year": "2023-2026",
+      "variant": "Zeta/Alpha",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i10",
+      "year": "2007-2010",
+      "variant": "Era/Magna/Sportz",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i10",
+      "year": "2010-2013",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Grand i10",
+      "year": "2013-2017",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Grand i10",
+      "year": "2017-2019",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Grand i10 Nios",
+      "year": "2019-2023",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Grand i10 Nios",
+      "year": "2023-2026",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2008-2010",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2010-2014",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2014-2017",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2017-2020",
+      "variant": "Era/Magna/Sportz/Asta",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2020-2023",
+      "variant": "Magna/Sportz/Asta",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20",
+      "year": "2023-2026",
+      "variant": "Magna/Sportz/Asta",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "i20 Active",
+      "year": "2015-2017",
+      "variant": "S/SX",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santro",
+      "year": "1998-2003",
+      "variant": "GS/GL/GLS",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santro",
+      "year": "2003-2014",
+      "variant": "GL/GL+/GLS",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Santro",
+      "year": "2018-2022",
+      "variant": "D-Lite/Era/Magna/Sportz/Asta",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Accent",
+      "year": "1999-2005",
+      "variant": "GLS/GLE",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Accent",
+      "year": "2005-2011",
+      "variant": "GLE/GLX",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "year": "2006-2010",
+      "variant": "1.4/1.6 CRDi",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "year": "2011-2015",
+      "variant": "1.4/1.6 VTVT/CRDi",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "year": "2015-2017",
+      "variant": "Base/S/SX/SX(O)",
+      "generation": "4th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "year": "2017-2020",
+      "variant": "E/EX/S/SX/SX(O)",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "year": "2020-2023",
+      "variant": "E/S/SX/SX(O)",
+      "generation": "5th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Verna",
+      "year": "2023-2026",
+      "variant": "E/S/SX/SX(O)",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": "2015-2017",
+      "variant": "Base/S/SX/SX(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H7",
+      "fog_light": "H27"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": "2018-2020",
+      "variant": "E/EX/S/SX/SX(O)",
+      "generation": "1st Gen FL",
+      "headlight_low": "9005",
+      "headlight_high": "H8",
+      "fog_light": "H27"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": "2020-2024",
+      "variant": "E/EX/S/SX/SX(O)",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H8",
+      "fog_light": "9005"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Creta",
+      "year": "2024-2026",
+      "variant": "EX/S/SX/SX(O)",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H8",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Venue",
+      "year": "2019-2022",
+      "variant": "E/S/SX/SX(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Venue",
+      "year": "2022-2026",
+      "variant": "E/S/SX/SX(O)/SX(O)+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": "2004-2010",
+      "variant": "CRDi",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": "2011-2016",
+      "variant": "SX/SX(O)",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": "2016-2019",
+      "variant": "S/SX/SX(O)",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Elantra",
+      "year": "2019-2023",
+      "variant": "S/SX/SX(O)",
+      "generation": "6th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": "2016-2020",
+      "variant": "GL/GLS",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Tucson",
+      "year": "2020-2024",
+      "variant": "GL/GLS/Signature",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Alcazar",
+      "year": "2021-2024",
+      "variant": "Prestige/Platinum/Signature",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Alcazar",
+      "year": "2024-2026",
+      "variant": "Prestige/Platinum/Signature",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Aura",
+      "year": "2020-2023",
+      "variant": "E/S/SX/SX(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Aura",
+      "year": "2023-2026",
+      "variant": "E/S/SX/SX(O)",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Kona Electric",
+      "year": "2019-2022",
+      "variant": "Premium",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Hyundai",
+      "model": "Ioniq 5",
+      "year": "2022-2026",
+      "variant": "Premium/Signature",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Tata",
+      "model": "Tiago",
+      "year": "2016-2020",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Tiago",
+      "year": "2020-2024",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Tiago",
+      "year": "2024-2026",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Tiago NRG",
+      "year": "2018-2021",
+      "variant": "XE/XM/XT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Tiago NRG",
+      "year": "2021-2026",
+      "variant": "XE/XM/XT",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Tigor",
+      "year": "2017-2020",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Tigor",
+      "year": "2020-2024",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Tigor",
+      "year": "2024-2026",
+      "variant": "XE/XM/XT/XZ",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Tigor EV",
+      "year": "2021-2026",
+      "variant": "XE/XM/XT/XZ+",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon",
+      "year": "2017-2020",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon",
+      "year": "2020-2023",
+      "variant": "XE/XM/XMA/XZ+/XZ+(O)",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon",
+      "year": "2023-2026",
+      "variant": "Smart/Pure/Creative/Fearless",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon EV",
+      "year": "2020-2023",
+      "variant": "XM/XZ+/XZ+ Lux",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Nexon EV",
+      "year": "2023-2026",
+      "variant": "Prime/Max",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Punch",
+      "year": "2021-2024",
+      "variant": "Pure/Adventure/Accomplished/Creative",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Punch",
+      "year": "2024-2026",
+      "variant": "Pure/Adventure/Accomplished/Creative",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Altroz",
+      "year": "2020-2023",
+      "variant": "XE/XM/XM+/XT/XZ/XZ(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Altroz",
+      "year": "2023-2026",
+      "variant": "XE/XM/XM+/XT/XZ/XZ(O)",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Harrier",
+      "year": "2019-2023",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Harrier",
+      "year": "2023-2026",
+      "variant": "Smart/Pure/Adventure/Fearless",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Safari",
+      "year": "1998-2008",
+      "variant": "LX/EX/GX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Tata",
+      "model": "Safari",
+      "year": "2008-2019",
+      "variant": "LX/EX/VX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Safari",
+      "year": "2021-2023",
+      "variant": "XE/XM/XT/XZ/XZ+",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Safari",
+      "year": "2023-2026",
+      "variant": "Smart/Pure/Adventure/Accomplished",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Tata",
+      "model": "Hexa",
+      "year": "2017-2020",
+      "variant": "XE/XM/XT/XTA",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Nano",
+      "year": "2009-2018",
+      "variant": "Std/CX/LX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Tata",
+      "model": "Indica",
+      "year": "1998-2003",
+      "variant": "DL/DLE/DLG",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Tata",
+      "model": "Indica",
+      "year": "2004-2009",
+      "variant": "DLS/DLE/V2",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Indica Vista",
+      "year": "2008-2015",
+      "variant": "Aura/Aqua/Terra",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Indigo",
+      "year": "2002-2008",
+      "variant": "GL/GLS/GLX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Indigo",
+      "year": "2008-2014",
+      "variant": "LS/LX/eCS",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Indigo eCS",
+      "year": "2008-2018",
+      "variant": "LS/LX/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Manza",
+      "year": "2009-2015",
+      "variant": "Aqua/Aura/Elan",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Zest",
+      "year": "2014-2018",
+      "variant": "XE/XM/XMS/XT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Bolt",
+      "year": "2015-2019",
+      "variant": "XE/XM/XMS/XT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Tata",
+      "model": "Sumo",
+      "year": "1994-2008",
+      "variant": "DX/EX/LX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Tata",
+      "model": "Sumo",
+      "year": "2008-2019",
+      "variant": "CX/EX/GX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Tata",
+      "model": "Sumo Grande",
+      "year": "2008-2012",
+      "variant": "CX/GX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio",
+      "year": "2002-2006",
+      "variant": "DX/LX/SLX/SLE",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio",
+      "year": "2006-2009",
+      "variant": "DX/LX/SLE/VLX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio",
+      "year": "2009-2014",
+      "variant": "DX/LX/VLX/VLX 4WD",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio",
+      "year": "2014-2017",
+      "variant": "S2/S4/S6/S8/S10",
+      "generation": "1st Gen FL3",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio",
+      "year": "2017-2021",
+      "variant": "S3/S5/S7/S9/S11",
+      "generation": "1st Gen FL4",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio Classic",
+      "year": "2021-2026",
+      "variant": "S/S11",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Scorpio-N",
+      "year": "2022-2026",
+      "variant": "Z2/Z4/Z6/Z8/Z8L",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV500",
+      "year": "2011-2015",
+      "variant": "W6/W8/W10",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV500",
+      "year": "2015-2018",
+      "variant": "W6/W8/W10/W11",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV500",
+      "year": "2018-2021",
+      "variant": "W5/W7/W9/W11",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV700",
+      "year": "2021-2024",
+      "variant": "MX/AX3/AX5/AX7",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV700",
+      "year": "2024-2026",
+      "variant": "MX/AX3/AX5/AX7/AX7L",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV300",
+      "year": "2019-2022",
+      "variant": "W4/W6/W8/W8(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV300",
+      "year": "2022-2026",
+      "variant": "W4/W6/W8/W8(O)",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV400 EV",
+      "year": "2023-2026",
+      "variant": "EC/EL/EP",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "XUV 3XO",
+      "year": "2024-2026",
+      "variant": "MX1/MX2/MX3/AX5/AX7",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero",
+      "year": "2001-2007",
+      "variant": "DI/DI BSII/DI BSIII",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero",
+      "year": "2007-2011",
+      "variant": "SLE/SLX/DI",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero",
+      "year": "2011-2017",
+      "variant": "SLE/SLX/ZLX/Power+",
+      "generation": "Facelift",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero",
+      "year": "2017-2021",
+      "variant": "B4/B6/Power+",
+      "generation": "Facelift 2",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero Neo",
+      "year": "2021-2024",
+      "variant": "N4/N8/N10",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Bolero Neo",
+      "year": "2024-2026",
+      "variant": "N4/N7/N10/N11",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Thar",
+      "year": "2010-2015",
+      "variant": "CRDe/DI",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Thar",
+      "year": "2015-2020",
+      "variant": "CRDe/DI 4x4",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Thar",
+      "year": "2020-2023",
+      "variant": "AX/AX(O)/LX",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Thar",
+      "year": "2023-2026",
+      "variant": "AX/AX(O)/LX",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Thar Roxx",
+      "year": "2024-2026",
+      "variant": "MX1/MX3/MX5/AX5/AX7",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "KUV100",
+      "year": "2016-2018",
+      "variant": "K2/K4/K6/K8",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "KUV100 NXT",
+      "year": "2018-2021",
+      "variant": "K2+/K4+/K6+/K8",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Marazzo",
+      "year": "2018-2022",
+      "variant": "M2/M4/M6/M8",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Marazzo",
+      "year": "2022-2026",
+      "variant": "M2/M4+/M6+/M8",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Xylo",
+      "year": "2009-2014",
+      "variant": "D2/D4/E4/E8",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Xylo",
+      "year": "2014-2019",
+      "variant": "D2/D4/E4/E8",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Quanto",
+      "year": "2012-2015",
+      "variant": "C2/C4/C6/C8",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Verito",
+      "year": "2011-2018",
+      "variant": "D2/D4/D6",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Logan",
+      "year": "2007-2012",
+      "variant": "DLE/DLX/GLX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mahindra",
+      "model": "Commander",
+      "year": "2022-2024",
+      "variant": "MX/AX5/AX7",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "1998-2003",
+      "variant": "EXi/VTi",
+      "generation": "3rd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2003-2005",
+      "variant": "EXi/VTi",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2005-2008",
+      "variant": "EXi/VTi/ZX",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2008-2014",
+      "variant": "S/V/VX",
+      "generation": "4th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2014-2017",
+      "variant": "S/SV/V/VX/ZX",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2017-2020",
+      "variant": "S/SV/V/VX/ZX",
+      "generation": "5th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2020-2023",
+      "variant": "V/VX/ZX",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "City",
+      "year": "2023-2026",
+      "variant": "V/VX/ZX",
+      "generation": "6th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "City Hybrid",
+      "year": "2022-2026",
+      "variant": "V/VX/ZX",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "year": "2013-2016",
+      "variant": "E/S/SX/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "year": "2016-2018",
+      "variant": "E/S/SX/VX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "year": "2018-2021",
+      "variant": "E/S/V/VX",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "year": "2021-2024",
+      "variant": "E/S/V/VX",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "Amaze",
+      "year": "2024-2026",
+      "variant": "V/VX/ZX",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "Jazz",
+      "year": "2009-2013",
+      "variant": "S/Select/V",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Jazz",
+      "year": "2015-2018",
+      "variant": "S/SV/V/VX",
+      "generation": "3rd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Jazz",
+      "year": "2018-2020",
+      "variant": "S/V/VX",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "WR-V",
+      "year": "2017-2020",
+      "variant": "S/SV/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "WR-V",
+      "year": "2020-2023",
+      "variant": "S/SV/VX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2006-2012",
+      "variant": "1.8 S/V",
+      "generation": "8th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Civic",
+      "year": "2019-2022",
+      "variant": "V/VX/ZX",
+      "generation": "10th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "CR-V",
+      "year": "2007-2012",
+      "variant": "2.0/2.4",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "CR-V",
+      "year": "2013-2018",
+      "variant": "2.0/2.4",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "CR-V",
+      "year": "2018-2023",
+      "variant": "2WD/4WD",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2003-2008",
+      "variant": "2.4 VTi-L",
+      "generation": "7th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Accord",
+      "year": "2008-2015",
+      "variant": "2.4 VTi-L",
+      "generation": "8th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Accord Hybrid",
+      "year": "2016-2019",
+      "variant": "Hybrid",
+      "generation": "9th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Honda",
+      "model": "Brio",
+      "year": "2011-2014",
+      "variant": "E/S/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Brio",
+      "year": "2014-2016",
+      "variant": "E/S/VX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Mobilio",
+      "year": "2014-2017",
+      "variant": "E/S/V/RS",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "BR-V",
+      "year": "2016-2020",
+      "variant": "S/V/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Honda",
+      "model": "Elevate",
+      "year": "2023-2026",
+      "variant": "SV/V/VX/ZX",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Innova",
+      "year": "2005-2009",
+      "variant": "G/GX/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Innova",
+      "year": "2009-2016",
+      "variant": "G/GX/VX/ZX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Innova Crysta",
+      "year": "2016-2020",
+      "variant": "G/GX/VX/ZX",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Innova Crysta",
+      "year": "2020-2023",
+      "variant": "G/GX/VX/ZX",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Innova Hycross",
+      "year": "2023-2026",
+      "variant": "GX/VX/ZX/ZX(O)",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "year": "2009-2012",
+      "variant": "2.7/3.0",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "year": "2012-2016",
+      "variant": "2.7/3.0 4x2/4x4",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "year": "2016-2021",
+      "variant": "2.7/2.8 4x2/4x4",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "year": "2021-2024",
+      "variant": "2.7/2.8 4x2/4x4",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Fortuner",
+      "year": "2024-2026",
+      "variant": "2.7/2.8 4x2/4x4",
+      "generation": "2nd Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Etios",
+      "year": "2010-2014",
+      "variant": "J/G/V/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Etios",
+      "year": "2014-2017",
+      "variant": "J/G/VX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Etios Liva",
+      "year": "2011-2014",
+      "variant": "J/G/V/VX",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Etios Liva",
+      "year": "2014-2017",
+      "variant": "J/G/VX",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla",
+      "year": "2003-2008",
+      "variant": "G/H2",
+      "generation": "9th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla Altis",
+      "year": "2008-2014",
+      "variant": "G/GL/VL",
+      "generation": "10th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla Altis",
+      "year": "2014-2017",
+      "variant": "G/GL/VL",
+      "generation": "11th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Corolla Altis",
+      "year": "2017-2020",
+      "variant": "G/GL/VL",
+      "generation": "11th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2002-2006",
+      "variant": "2.4",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2006-2012",
+      "variant": "2.4/2.5",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2012-2015",
+      "variant": "2.5",
+      "generation": "7th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2015-2019",
+      "variant": "2.5 Hybrid",
+      "generation": "8th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Camry",
+      "year": "2019-2026",
+      "variant": "2.5 Hybrid",
+      "generation": "8th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Glanza",
+      "year": "2019-2022",
+      "variant": "G/V",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Glanza",
+      "year": "2022-2026",
+      "variant": "E/S/G",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Urban Cruiser",
+      "year": "2020-2022",
+      "variant": "Mid/High/Premium",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Hyryder",
+      "year": "2022-2026",
+      "variant": "E/S/G/V",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Rumion",
+      "year": "2023-2026",
+      "variant": "S/G/V",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2010-2015",
+      "variant": "VX/VX+",
+      "generation": "200 Series",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2015-2021",
+      "variant": "VX",
+      "generation": "200 Series FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser",
+      "year": "2022-2026",
+      "variant": "VX/ZX",
+      "generation": "300 Series",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser Prado",
+      "year": "2010-2021",
+      "variant": "VX/VX+",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Toyota",
+      "model": "Land Cruiser Prado",
+      "year": "2021-2026",
+      "variant": "VX",
+      "generation": "4th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Toyota",
+      "model": "Qualis",
+      "year": "2000-2005",
+      "variant": "FS/GS/GS C7/C8",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Kia",
+      "model": "Seltos",
+      "year": "2019-2020",
+      "variant": "HTE/HTK/HTK+/HTX/HTX+/GTX/GTX+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Seltos",
+      "year": "2020-2023",
+      "variant": "HTE/HTK/HTK+/HTX/HTX+/GTX/GTX+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Seltos",
+      "year": "2023-2026",
+      "variant": "HTE/HTK/HTK+/HTX/HTX+/GTX/GTX+",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Sonet",
+      "year": "2020-2023",
+      "variant": "HTE/HTK/HTK+/HTX/HTX+/GTX/GTX+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Sonet",
+      "year": "2023-2026",
+      "variant": "HTE/HTK/HTK+/HTX/HTX+/GTX+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Carens",
+      "year": "2022-2024",
+      "variant": "Premium/Prestige/Prestige+/Luxury/Luxury+",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Carens",
+      "year": "2024-2026",
+      "variant": "Premium/Prestige/Luxury/Luxury+/X-Line",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Carnival",
+      "year": "2020-2023",
+      "variant": "Premium/Prestige/Limousine",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "Carnival",
+      "year": "2023-2026",
+      "variant": "Premium/Prestige/Limousine/Limousine+",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Kia",
+      "model": "EV6",
+      "year": "2022-2026",
+      "variant": "GT-Line",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Kia",
+      "model": "EV9",
+      "year": "2024-2026",
+      "variant": "GT-Line",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Renault",
+      "model": "Kwid",
+      "year": "2015-2018",
+      "variant": "RXE/RXL/RXT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Kwid",
+      "year": "2018-2020",
+      "variant": "STD/RXE/RXL/RXT/Climber",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Kwid",
+      "year": "2020-2024",
+      "variant": "RXE/RXL/RXT/Climber",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Renault",
+      "model": "Kwid",
+      "year": "2024-2026",
+      "variant": "RXE/RXL/RXT/Climber",
+      "generation": "1st Gen FL3",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Renault",
+      "model": "Duster",
+      "year": "2012-2015",
+      "variant": "RXE/RXL/RXZ",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Duster",
+      "year": "2015-2019",
+      "variant": "RXE/RXL/RXZ/RXZ AWD",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Lodgy",
+      "year": "2015-2019",
+      "variant": "RXE/RXL/RXZ/Stepway",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Captur",
+      "year": "2017-2020",
+      "variant": "RXE/RXL/RXT/Platine",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Kiger",
+      "year": "2021-2023",
+      "variant": "RXE/RXL/RXT/RXZ",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Renault",
+      "model": "Kiger",
+      "year": "2023-2026",
+      "variant": "RXE/RXL/RXT/RXZ",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Renault",
+      "model": "Triber",
+      "year": "2019-2022",
+      "variant": "RXE/RXL/RXT/RXZ",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Triber",
+      "year": "2022-2026",
+      "variant": "RXE/RXL/RXT/RXZ",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Renault",
+      "model": "Pulse",
+      "year": "2012-2014",
+      "variant": "RXE/RXL/RXT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Scala",
+      "year": "2012-2016",
+      "variant": "RXE/RXL/RXT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Fluence",
+      "year": "2011-2014",
+      "variant": "E2/E4",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Renault",
+      "model": "Koleos",
+      "year": "2011-2015",
+      "variant": "4x2/4x4",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "EcoSport",
+      "year": "2013-2017",
+      "variant": "Ambiente/Trend/Titanium",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "EcoSport",
+      "year": "2017-2021",
+      "variant": "Ambiente/Trend/Titanium/S",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Endeavour",
+      "year": "2003-2009",
+      "variant": "XLT/4x2/4x4",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Ford",
+      "model": "Endeavour",
+      "year": "2009-2015",
+      "variant": "2.5L/3.0L",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Endeavour",
+      "year": "2016-2019",
+      "variant": "Trend/Titanium/Sport",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Endeavour",
+      "year": "2019-2021",
+      "variant": "Titanium/Sport",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Figo",
+      "year": "2010-2015",
+      "variant": "Base/EXi/LXi/TDCi",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Figo",
+      "year": "2015-2019",
+      "variant": "Ambiente/Trend/Titanium",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Figo",
+      "year": "2019-2021",
+      "variant": "Ambiente/Titanium Blu",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Aspire",
+      "year": "2015-2018",
+      "variant": "Ambiente/Trend/Titanium",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Aspire",
+      "year": "2018-2021",
+      "variant": "Ambiente/Titanium/Titanium+",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Freestyle",
+      "year": "2018-2021",
+      "variant": "Ambiente/Trend/Titanium/Titanium+",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Fiesta",
+      "year": "2005-2011",
+      "variant": "EXi/ZXi/SXi",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Fiesta",
+      "year": "2011-2014",
+      "variant": "EXi/Titanium/Titanium+",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Ikon",
+      "year": "1999-2011",
+      "variant": "1.3/1.4/1.6",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Ford",
+      "model": "Fusion",
+      "year": "2006-2011",
+      "variant": "1.4/1.6",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Magnite",
+      "year": "2020-2024",
+      "variant": "XE/XL/XV/XV Premium",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Nissan",
+      "model": "Magnite",
+      "year": "2024-2026",
+      "variant": "XE/XL/XV/XV Premium",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Nissan",
+      "model": "Kicks",
+      "year": "2019-2022",
+      "variant": "XL/XV/XV Premium",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Nissan",
+      "model": "Terrano",
+      "year": "2013-2017",
+      "variant": "XE/XL/XV/XV Premium",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Terrano",
+      "year": "2017-2020",
+      "variant": "XE+/XL/XV/XV Premium",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Sunny",
+      "year": "2011-2014",
+      "variant": "XE/XL/XV",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Sunny",
+      "year": "2014-2020",
+      "variant": "XE/XL/XV/XV Premium",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Micra",
+      "year": "2010-2014",
+      "variant": "XE/XL/XV",
+      "generation": "4th Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Micra",
+      "year": "2014-2017",
+      "variant": "XE/XL/XV",
+      "generation": "4th Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "Micra Active",
+      "year": "2013-2018",
+      "variant": "XE/XL/XV",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Nissan",
+      "model": "X-Trail",
+      "year": "2016-2022",
+      "variant": "XL/XV Hybrid",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Nissan",
+      "model": "GT-R",
+      "year": "2016-2022",
+      "variant": "Premium",
+      "generation": "R35",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Polo",
+      "year": "2010-2014",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Polo",
+      "year": "2014-2019",
+      "variant": "Trendline/Comfortline/Highline/GT",
+      "generation": "5th Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Polo",
+      "year": "2019-2026",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Vento",
+      "year": "2010-2015",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Vento",
+      "year": "2015-2020",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Virtus",
+      "year": "2022-2026",
+      "variant": "Comfortline/Highline/GT",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Ameo",
+      "year": "2016-2020",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": "2017-2020",
+      "variant": "Comfortline/Highline",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": "2020-2024",
+      "variant": "Elegance/R-Line",
+      "generation": "2nd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Tiguan",
+      "year": "2024-2026",
+      "variant": "Elegance/R-Line",
+      "generation": "2nd Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Tiguan Allspace",
+      "year": "2020-2024",
+      "variant": "Comfortline/Highline",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Taigun",
+      "year": "2021-2024",
+      "variant": "Comfortline/Highline/GT",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Taigun",
+      "year": "2024-2026",
+      "variant": "Comfortline/Highline/GT",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": "2007-2011",
+      "variant": "Comfortline/Highline",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Passat",
+      "year": "2011-2015",
+      "variant": "Comfortline/Highline",
+      "generation": "7th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": "2008-2011",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "5th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "year": "2011-2015",
+      "variant": "Trendline/Comfortline/Highline",
+      "generation": "6th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Volkswagen",
+      "model": "Beetle",
+      "year": "2009-2015",
+      "variant": "Base",
+      "generation": "A5",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Rapid",
+      "year": "2011-2016",
+      "variant": "Active/Ambition/Elegance",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Rapid",
+      "year": "2016-2020",
+      "variant": "Active/Ambition/Style",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Slavia",
+      "year": "2022-2026",
+      "variant": "Active/Ambition/Style",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Kushaq",
+      "year": "2021-2024",
+      "variant": "Active/Ambition/Style",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Kushaq",
+      "year": "2024-2026",
+      "variant": "Classic/Signature/Prestige",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia",
+      "year": "2001-2007",
+      "variant": "Classic/Elegance",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia",
+      "year": "2007-2013",
+      "variant": "Ambition/Elegance/L&K",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia",
+      "year": "2013-2017",
+      "variant": "Active/Ambition/Elegance/L&K",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia",
+      "year": "2017-2021",
+      "variant": "Active/Style/L&K",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Octavia",
+      "year": "2021-2026",
+      "variant": "Style/L&K",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Superb",
+      "year": "2008-2015",
+      "variant": "Elegance/L&K",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Superb",
+      "year": "2016-2020",
+      "variant": "Style/L&K",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Superb",
+      "year": "2020-2024",
+      "variant": "Sportline/L&K",
+      "generation": "3rd Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Kodiaq",
+      "year": "2017-2020",
+      "variant": "Style/L&K",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Kodiaq",
+      "year": "2020-2024",
+      "variant": "Style/L&K",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Kodiaq",
+      "year": "2024-2026",
+      "variant": "Sportline/L&K",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Skoda",
+      "model": "Karoq",
+      "year": "2020-2024",
+      "variant": "Active/Ambition/Style",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Yeti",
+      "year": "2010-2017",
+      "variant": "Elegance/L&K",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Laura",
+      "year": "2009-2014",
+      "variant": "Ambiente/Elegance/L&K",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Skoda",
+      "model": "Fabia",
+      "year": "2008-2013",
+      "variant": "Classic/Elegance",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Hector",
+      "year": "2019-2021",
+      "variant": "Style/Super/Smart/Sharp",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Hector",
+      "year": "2021-2023",
+      "variant": "Style/Super/Smart/Sharp/Savvy",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Hector",
+      "year": "2023-2026",
+      "variant": "Style/Select/Shine/Savvy",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Hector Plus",
+      "year": "2020-2023",
+      "variant": "Style/Super/Smart/Sharp",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Hector Plus",
+      "year": "2023-2026",
+      "variant": "Style/Select/Shine",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Astor",
+      "year": "2021-2024",
+      "variant": "Style/Super/Smart/Sharp/Savvy",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Astor",
+      "year": "2024-2026",
+      "variant": "Pace/Sprint/Turbo/Blackstorm",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "ZS EV",
+      "year": "2020-2022",
+      "variant": "Excite/Exclusive",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "MG Motor",
+      "model": "ZS EV",
+      "year": "2022-2024",
+      "variant": "Excite/Exclusive",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Gloster",
+      "year": "2020-2023",
+      "variant": "Super/Smart/Sharp/Savvy",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Gloster",
+      "year": "2023-2026",
+      "variant": "Desertstorm/Blackstorm/Snowstorm",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Comet EV",
+      "year": "2023-2026",
+      "variant": "Pace/Sprint/Plush",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "MG Motor",
+      "model": "Windsor EV",
+      "year": "2024-2026",
+      "variant": "Excite/Exclusive",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Jeep",
+      "model": "Compass",
+      "year": "2017-2021",
+      "variant": "Sport/Longitude/Limited/Model S",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Jeep",
+      "model": "Compass",
+      "year": "2021-2024",
+      "variant": "Sport/Longitude/Limited/Model S",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Jeep",
+      "model": "Compass",
+      "year": "2024-2026",
+      "variant": "Sport/Longitude/Limited/Overland",
+      "generation": "1st Gen FL2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Jeep",
+      "model": "Meridian",
+      "year": "2022-2026",
+      "variant": "Longitude/Limited/Overland",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2016-2020",
+      "variant": "Unlimited",
+      "generation": "JK",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Jeep",
+      "model": "Wrangler",
+      "year": "2020-2026",
+      "variant": "Unlimited",
+      "generation": "JL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "year": "2016-2022",
+      "variant": "Limited/Summit",
+      "generation": "WK2",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Citroen",
+      "model": "C3",
+      "year": "2022-2024",
+      "variant": "Live/Feel/Shine",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Citroen",
+      "model": "C3",
+      "year": "2024-2026",
+      "variant": "Live/Feel/Shine",
+      "generation": "1st Gen FL",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Citroen",
+      "model": "C3 Aircross",
+      "year": "2023-2026",
+      "variant": "Plus/Max",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Citroen",
+      "model": "C5 Aircross",
+      "year": "2021-2023",
+      "variant": "Feel/Shine",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Citroen",
+      "model": "eC3",
+      "year": "2023-2026",
+      "variant": "Live/Feel/Shine",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H8"
+    },
+    {
+      "make": "BYD",
+      "model": "Atto 3",
+      "year": "2022-2024",
+      "variant": "Dynamic/Premium",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BYD",
+      "model": "Atto 3",
+      "year": "2024-2026",
+      "variant": "Dynamic/Superior",
+      "generation": "1st Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BYD",
+      "model": "e6",
+      "year": "2021-2024",
+      "variant": "GL/GLX",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "BYD",
+      "model": "Seal",
+      "year": "2023-2026",
+      "variant": "Dynamic/Premium",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "year": "2013-2018",
+      "variant": "A180/A200",
+      "generation": "W176",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "A-Class",
+      "year": "2019-2024",
+      "variant": "A200/A220d",
+      "generation": "W177",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2001-2007",
+      "variant": "C200/C220",
+      "generation": "W203",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2008-2014",
+      "variant": "C200/C220/C250",
+      "generation": "W204",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2015-2021",
+      "variant": "C200/C220d/C300",
+      "generation": "W205",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "year": "2022-2026",
+      "variant": "C200/C220d/C300",
+      "generation": "W206",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2003-2009",
+      "variant": "E200/E220/E280",
+      "generation": "W211",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2010-2016",
+      "variant": "E200/E220/E250",
+      "generation": "W212",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2017-2023",
+      "variant": "E200/E220d/E350",
+      "generation": "W213",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "E-Class",
+      "year": "2024-2026",
+      "variant": "E200/E220d",
+      "generation": "W214",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2006-2013",
+      "variant": "S320/S350/S500",
+      "generation": "W221",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2014-2020",
+      "variant": "S350/S400/S500",
+      "generation": "W222",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "S-Class",
+      "year": "2021-2026",
+      "variant": "S350d/S450/S500",
+      "generation": "W223",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2014-2020",
+      "variant": "200/200d/220d",
+      "generation": "X156",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLA",
+      "year": "2020-2026",
+      "variant": "200/220d",
+      "generation": "H247",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLB",
+      "year": "2020-2026",
+      "variant": "200/220d",
+      "generation": "X247",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "year": "2016-2022",
+      "variant": "220d/300",
+      "generation": "X253",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLC",
+      "year": "2022-2026",
+      "variant": "200/220d/300",
+      "generation": "X254",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "year": "2015-2019",
+      "variant": "250d/350d/400",
+      "generation": "W166",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "year": "2019-2023",
+      "variant": "300d/400d/450",
+      "generation": "W167",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLE",
+      "year": "2023-2026",
+      "variant": "300d/450/450+",
+      "generation": "W167 FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLS",
+      "year": "2016-2020",
+      "variant": "350d/400",
+      "generation": "X166",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "GLS",
+      "year": "2020-2026",
+      "variant": "400d/450/Maybach",
+      "generation": "X167",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2002-2018",
+      "variant": "G350/G500/G63",
+      "generation": "W463",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "G-Class",
+      "year": "2019-2026",
+      "variant": "G400d/G63",
+      "generation": "W464",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Mercedes-Benz",
+      "model": "EQS",
+      "year": "2022-2026",
+      "variant": "EQS 580",
+      "generation": "V297",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "3 Series",
+      "year": "2005-2011",
+      "variant": "320d/325i/330i",
+      "generation": "E90",
+      "headlight_low": "H7",
+      "headlight_high": "H7",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "3 Series",
+      "year": "2012-2019",
+      "variant": "320d/328i/330i",
+      "generation": "F30",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "BMW",
+      "model": "3 Series",
+      "year": "2019-2026",
+      "variant": "320d/330i/M340i",
+      "generation": "G20",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "5 Series",
+      "year": "2003-2010",
+      "variant": "520d/525i/530i",
+      "generation": "E60",
+      "headlight_low": "H7",
+      "headlight_high": "H7",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "5 Series",
+      "year": "2011-2016",
+      "variant": "520d/528i/535i",
+      "generation": "F10",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "5 Series",
+      "year": "2017-2023",
+      "variant": "520d/530i/540i",
+      "generation": "G30",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "5 Series",
+      "year": "2024-2026",
+      "variant": "520i/530Li/M550i",
+      "generation": "G60",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "7 Series",
+      "year": "2009-2015",
+      "variant": "730Ld/740Li/750Li",
+      "generation": "F01",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "7 Series",
+      "year": "2016-2022",
+      "variant": "730Ld/740Li/750Li",
+      "generation": "G11",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "7 Series",
+      "year": "2023-2026",
+      "variant": "735i/745Le",
+      "generation": "G70",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "X1",
+      "year": "2010-2015",
+      "variant": "sDrive18d/xDrive20d",
+      "generation": "E84",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "X1",
+      "year": "2016-2022",
+      "variant": "sDrive20d/xDrive20d",
+      "generation": "F48",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "BMW",
+      "model": "X1",
+      "year": "2023-2026",
+      "variant": "sDrive18d/xDrive20d",
+      "generation": "U11",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "X3",
+      "year": "2004-2010",
+      "variant": "xDrive20d/xDrive30d",
+      "generation": "E83",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "X3",
+      "year": "2011-2017",
+      "variant": "xDrive20d/xDrive30d",
+      "generation": "F25",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "X3",
+      "year": "2018-2021",
+      "variant": "xDrive20d/xDrive30d/M40i",
+      "generation": "G01",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "BMW",
+      "model": "X3",
+      "year": "2022-2026",
+      "variant": "xDrive20d/M40i",
+      "generation": "G01 LCI",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": "2007-2013",
+      "variant": "xDrive30d/xDrive50i",
+      "generation": "E70",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": "2014-2018",
+      "variant": "xDrive30d/xDrive50i",
+      "generation": "F15",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": "2019-2023",
+      "variant": "xDrive30d/xDrive40i/M50i",
+      "generation": "G05",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "X5",
+      "year": "2024-2026",
+      "variant": "xDrive40i/M60i",
+      "generation": "G05 LCI",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "X7",
+      "year": "2019-2022",
+      "variant": "xDrive30d/xDrive40i/M50d",
+      "generation": "G07",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "X7",
+      "year": "2023-2026",
+      "variant": "xDrive40i/M60i",
+      "generation": "G07 LCI",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "iX",
+      "year": "2022-2026",
+      "variant": "xDrive40/xDrive50",
+      "generation": "I20",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "BMW",
+      "model": "i4",
+      "year": "2022-2026",
+      "variant": "eDrive40/M50",
+      "generation": "G26",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "A3",
+      "year": "2008-2013",
+      "variant": "1.8 TFSI/2.0 TDI",
+      "generation": "8P",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "A3",
+      "year": "2014-2020",
+      "variant": "35 TDI/40 TFSI",
+      "generation": "8V",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Audi",
+      "model": "A3",
+      "year": "2021-2026",
+      "variant": "35 TDI/40 TFSI",
+      "generation": "8Y",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": "2001-2008",
+      "variant": "1.8T/2.0 TDI/3.0 TDI",
+      "generation": "B7",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": "2008-2015",
+      "variant": "2.0 TDI/3.0 TDI",
+      "generation": "B8",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": "2016-2020",
+      "variant": "30 TDI/35 TDI/40 TFSI",
+      "generation": "B9",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Audi",
+      "model": "A4",
+      "year": "2021-2026",
+      "variant": "40 TFSI/45 TFSI",
+      "generation": "B9 FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "A6",
+      "year": "2005-2011",
+      "variant": "2.0 TDI/2.7 TDI/3.0 TDI",
+      "generation": "C6",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "A6",
+      "year": "2011-2018",
+      "variant": "35 TDI/45 TDI",
+      "generation": "C7",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "A6",
+      "year": "2019-2026",
+      "variant": "45 TDI/55 TFSI",
+      "generation": "C8",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "A8",
+      "year": "2010-2017",
+      "variant": "3.0 TDI/4.2 TDI/W12",
+      "generation": "D4",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "A8",
+      "year": "2018-2026",
+      "variant": "50 TDI/55 TFSI/60 TFSI",
+      "generation": "D5",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "Q3",
+      "year": "2012-2018",
+      "variant": "2.0 TDI/2.0 TFSI",
+      "generation": "8U",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "Q3",
+      "year": "2019-2026",
+      "variant": "35 TDI/40 TFSI/45 TFSI",
+      "generation": "F3",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "Q5",
+      "year": "2009-2017",
+      "variant": "2.0 TDI/3.0 TDI",
+      "generation": "8R",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "Q5",
+      "year": "2018-2020",
+      "variant": "35 TDI/40 TDI/45 TFSI",
+      "generation": "FY",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Audi",
+      "model": "Q5",
+      "year": "2021-2026",
+      "variant": "40 TDI/45 TFSI",
+      "generation": "FY FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "Q7",
+      "year": "2006-2015",
+      "variant": "3.0 TDI/4.2 TDI",
+      "generation": "4L",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Audi",
+      "model": "Q7",
+      "year": "2016-2019",
+      "variant": "40 TDI/45 TDI",
+      "generation": "4M",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Audi",
+      "model": "Q7",
+      "year": "2020-2026",
+      "variant": "45 TDI/55 TFSI",
+      "generation": "4M FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "e-tron",
+      "year": "2019-2024",
+      "variant": "50/55",
+      "generation": "GE",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Audi",
+      "model": "e-tron GT",
+      "year": "2021-2026",
+      "variant": "quattro/RS",
+      "generation": "F8",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Datsun",
+      "model": "GO",
+      "year": "2014-2020",
+      "variant": "D/D1/A/T/T(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Datsun",
+      "model": "GO+",
+      "year": "2014-2020",
+      "variant": "D/D1/A/T/T(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Datsun",
+      "model": "redi-GO",
+      "year": "2016-2020",
+      "variant": "D/S/A/T/T(O)",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Fiat",
+      "model": "Punto",
+      "year": "2009-2014",
+      "variant": "Active/Dynamic/Emotion",
+      "generation": "Grande Punto",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Fiat",
+      "model": "Punto Evo",
+      "year": "2014-2019",
+      "variant": "Active/Dynamic/Emotion",
+      "generation": "Punto Evo",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Fiat",
+      "model": "Linea",
+      "year": "2009-2014",
+      "variant": "Active/Dynamic/Emotion",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Fiat",
+      "model": "Linea",
+      "year": "2014-2018",
+      "variant": "Active/Dynamic/Emotion",
+      "generation": "1st Gen FL",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Fiat",
+      "model": "Avventura",
+      "year": "2014-2018",
+      "variant": "Active/Dynamic/Emotion",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Fiat",
+      "model": "Urban Cross",
+      "year": "2016-2019",
+      "variant": "Active/Dynamic",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Fiat",
+      "model": "Palio",
+      "year": "2001-2010",
+      "variant": "1.2/1.6/1.9D",
+      "generation": "178",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Beat",
+      "year": "2010-2017",
+      "variant": "LS/LT/LT Opt/PS",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Sail",
+      "year": "2012-2017",
+      "variant": "Base/LS/LT/LTAbs",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Sail U-VA",
+      "year": "2012-2017",
+      "variant": "Base/LS/LT",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Enjoy",
+      "year": "2013-2017",
+      "variant": "LS-7/LS-8/LT-7/LT-8",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Tavera",
+      "year": "2002-2017",
+      "variant": "LS/LT/Neo",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Cruze",
+      "year": "2009-2017",
+      "variant": "LS/LT/LTZ",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Trailblazer",
+      "year": "2015-2017",
+      "variant": "LT/LTZ",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Captiva",
+      "year": "2011-2016",
+      "variant": "LT/LTZ/Xtreme",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Spark",
+      "year": "2007-2015",
+      "variant": "LS/LT/LTZ",
+      "generation": "M300",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Aveo",
+      "year": "2006-2011",
+      "variant": "LS/LT/LTZ",
+      "generation": "T250",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Aveo U-VA",
+      "year": "2006-2012",
+      "variant": "LS/LT/LTZ",
+      "generation": "T200",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Chevrolet",
+      "model": "Optra",
+      "year": "2004-2008",
+      "variant": "LS/LT/LTZ",
+      "generation": "J200",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Pajero Sport",
+      "year": "2012-2016",
+      "variant": "Select/Select Plus/Sport",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Pajero Sport",
+      "year": "2016-2021",
+      "variant": "Sport 4X2/4X4",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "year": "2008-2015",
+      "variant": "GLS/GLS Premium",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Lancer",
+      "year": "2008-2012",
+      "variant": "GLX/GTS/Ralliart",
+      "generation": "CJ",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Mitsubishi",
+      "model": "Montero",
+      "year": "2000-2012",
+      "variant": "GLX/GLS/GLS AT",
+      "generation": "3rd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Force Motors",
+      "model": "Gurkha",
+      "year": "2009-2021",
+      "variant": "Hard Top/Soft Top",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Force Motors",
+      "model": "Gurkha",
+      "year": "2021-2026",
+      "variant": "3-Door/5-Door",
+      "generation": "2nd Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Force Motors",
+      "model": "Urbania",
+      "year": "2021-2026",
+      "variant": "9S/13S/16S/17S",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Force Motors",
+      "model": "Trax Cruiser",
+      "year": "2013-2020",
+      "variant": "Standard",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "None"
+    },
+    {
+      "make": "Force Motors",
+      "model": "Traveller",
+      "year": "2011-2021",
+      "variant": "2600/3000/3350",
+      "generation": "1st Gen",
+      "headlight_low": "H4",
+      "headlight_high": "H4",
+      "fog_light": "H3"
+    },
+    {
+      "make": "Isuzu",
+      "model": "D-Max",
+      "year": "2017-2020",
+      "variant": "Standard/High/V-Cross",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Isuzu",
+      "model": "D-Max",
+      "year": "2020-2026",
+      "variant": "Standard/High/V-Cross",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Isuzu",
+      "model": "MU-X",
+      "year": "2017-2019",
+      "variant": "4x2/4x4",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Isuzu",
+      "model": "MU-X",
+      "year": "2021-2026",
+      "variant": "4x2/4x4",
+      "generation": "3rd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Lexus",
+      "model": "ES",
+      "year": "2019-2026",
+      "variant": "300h/300h Exquisite",
+      "generation": "7th Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Lexus",
+      "model": "NX",
+      "year": "2018-2021",
+      "variant": "300h",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Lexus",
+      "model": "NX",
+      "year": "2022-2026",
+      "variant": "350h",
+      "generation": "2nd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Lexus",
+      "model": "RX",
+      "year": "2017-2022",
+      "variant": "450h/450hL",
+      "generation": "4th Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Lexus",
+      "model": "LX",
+      "year": "2016-2021",
+      "variant": "450d",
+      "generation": "3rd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Lexus",
+      "model": "LC",
+      "year": "2021-2026",
+      "variant": "500h",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40",
+      "year": "2018-2021",
+      "variant": "R-Design",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC40",
+      "year": "2022-2026",
+      "variant": "Recharge",
+      "generation": "1st Gen EV",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC60",
+      "year": "2018-2021",
+      "variant": "Inscription/R-Design",
+      "generation": "2nd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC60",
+      "year": "2022-2026",
+      "variant": "B5/B6 Inscription",
+      "generation": "2nd Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC90",
+      "year": "2015-2020",
+      "variant": "Inscription/Excellence",
+      "generation": "2nd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "XC90",
+      "year": "2020-2026",
+      "variant": "B5/B6 Inscription",
+      "generation": "2nd Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "S90",
+      "year": "2017-2021",
+      "variant": "Inscription",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Volvo",
+      "model": "S90",
+      "year": "2021-2026",
+      "variant": "B5 Inscription",
+      "generation": "1st Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2010-2017",
+      "variant": "Diesel/S/Turbo",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Porsche",
+      "model": "Cayenne",
+      "year": "2018-2026",
+      "variant": "Base/S/Turbo/E-Hybrid",
+      "generation": "3rd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Porsche",
+      "model": "Macan",
+      "year": "2014-2018",
+      "variant": "Base/S/Turbo",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H8"
+    },
+    {
+      "make": "Porsche",
+      "model": "Macan",
+      "year": "2019-2026",
+      "variant": "Base/S/GTS",
+      "generation": "1st Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Porsche",
+      "model": "Panamera",
+      "year": "2010-2016",
+      "variant": "Diesel/4S/Turbo",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Porsche",
+      "model": "Panamera",
+      "year": "2017-2020",
+      "variant": "4/4S/Turbo/E-Hybrid",
+      "generation": "2nd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Porsche",
+      "model": "Panamera",
+      "year": "2021-2026",
+      "variant": "4/4S/Turbo S",
+      "generation": "2nd Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Porsche",
+      "model": "911",
+      "year": "2012-2019",
+      "variant": "Carrera/Carrera S/Turbo",
+      "generation": "991",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Porsche",
+      "model": "911",
+      "year": "2019-2026",
+      "variant": "Carrera/Carrera S/Turbo S",
+      "generation": "992",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Discovery Sport",
+      "year": "2015-2019",
+      "variant": "Pure/SE/HSE",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Discovery Sport",
+      "year": "2020-2026",
+      "variant": "S/SE/HSE/R-Dynamic",
+      "generation": "1st Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "year": "2012-2019",
+      "variant": "Pure/Prestige/Autobiography",
+      "generation": "1st Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "year": "2020-2026",
+      "variant": "S/SE/R-Dynamic",
+      "generation": "2nd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Velar",
+      "year": "2017-2021",
+      "variant": "S/SE/R-Dynamic/First Edition",
+      "generation": "1st Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Velar",
+      "year": "2021-2026",
+      "variant": "S/SE/R-Dynamic",
+      "generation": "1st Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2014-2017",
+      "variant": "SE/HSE/Autobiography",
+      "generation": "2nd Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2018-2022",
+      "variant": "S/SE/HSE/Autobiography",
+      "generation": "2nd Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "year": "2023-2026",
+      "variant": "S/SE/First Edition",
+      "generation": "3rd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2013-2017",
+      "variant": "Vogue/Vogue SE/Autobiography",
+      "generation": "4th Gen",
+      "headlight_low": "H7",
+      "headlight_high": "H1",
+      "fog_light": "H11"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2018-2021",
+      "variant": "Vogue/Vogue SE/Autobiography",
+      "generation": "4th Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "year": "2022-2026",
+      "variant": "SE/HSE/Autobiography",
+      "generation": "5th Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Defender",
+      "year": "2020-2022",
+      "variant": "S/SE/HSE/X",
+      "generation": "2nd Gen",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    },
+    {
+      "make": "Land Rover",
+      "model": "Defender",
+      "year": "2023-2026",
+      "variant": "S/SE/HSE/V8",
+      "generation": "2nd Gen FL",
+      "headlight_low": "LED",
+      "headlight_high": "LED",
+      "fog_light": "LED"
+    }
+  ]
+}
